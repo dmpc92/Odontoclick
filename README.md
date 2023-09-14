@@ -7,7 +7,7 @@ Maven for dependency management.
 Docker installed (Optional, only if you want to run the application in Docker containers).
 
 Installation:
-Clone the project repository: git clone 
+Clone the project repository: git clone https://github.com/dmpc92/Odontoclick.git
 Navigate to the project directory: cd clinica-odontologica
 Compile and package the project using Maven: mvn clean package
 (Optional) If you want to use Docker, make sure you have Docker installed and follow the Docker configuration and usage steps below.
@@ -39,7 +39,7 @@ Maven para la gestión de dependencias.
 Docker instalado (Opcional, solo si deseas ejecutar la aplicación en contenedores Docker).
 
 Instalación:
-Clona el repositorio del proyecto: git clone 
+Clona el repositorio del proyecto: git clone https://github.com/dmpc92/Odontoclick.git
 Navega al directorio del proyecto: cd clinica-odontologica
 Compila y empaqueta el proyecto utilizando Maven: mvn clean package
 (Opcional) Si deseas utilizar Docker, asegúrate de tener Docker instalado y sigue los pasos de configuración y uso de Docker a continuación.
